@@ -1,0 +1,102 @@
+[
+  {
+    "id": "3780e232409b255d",
+    "title": "Doctoral School of Biology",
+    "position": "PhD Program",
+    "url": "https://apply.elte.hu/courses/course/191-phd-doctoral-school-biology?search=695208",
+    "status": "open",
+    "scraped_at": "2025-11-21T10:26:35Z",
+    "deadline": "2026-05-31",
+    "posted_at": "2026-02-01"
+  },
+  {
+    "id": "f22c66b88d6b181d",
+    "title": "Doctoral School of Earth Sciences",
+    "position": "PhD Program",
+    "url": "https://apply.elte.hu/courses/course/197-phd-doctoral-school-earth-sciences?search=695208",
+    "status": "open",
+    "scraped_at": "2025-11-21T10:26:35Z",
+    "deadline": "2026-05-31",
+    "posted_at": "2026-02-01"
+  },
+  {
+    "id": "831039c7ae89c2f4",
+    "title": "Doctoral School of Education",
+    "position": "PhD Program",
+    "url": "https://apply.elte.hu/courses/course/224-phd-doctoral-school-education?search=695208",
+    "status": "open",
+    "scraped_at": "2025-11-21T10:26:35Z",
+    "deadline": "2026-05-25",
+    "posted_at": "2025-11-25"
+  },
+  {
+    "id": "330ca82ad95b1c40",
+    "title": "Doctoral School of Environmental Sciences",
+    "position": "PhD Program",
+    "url": "https://apply.elte.hu/courses/course/200-phd-doctoral-school-environmental-sciences?search=695208",
+    "status": "open",
+    "scraped_at": "2025-11-21T10:26:35Z",
+    "deadline": "2026-05-31",
+    "posted_at": "2026-02-01"
+  },
+  {
+    "id": "3e43eec250ea2454",
+    "title": "Doctoral School of Informatics",
+    "position": "PhD Program",
+    "url": "https://apply.elte.hu/courses/course/164-phd-doctoral-school-informatics?search=695208",
+    "status": "open",
+    "scraped_at": "2025-11-21T10:26:35Z",
+    "deadline": "2026-05-31",
+    "posted_at": "2026-04-01"
+  },
+  {
+    "id": "ae8dc62d7564c786",
+    "title": "Doctoral School of Mathematics",
+    "position": "PhD Program",
+    "url": "https://apply.elte.hu/courses/course/203-phd-doctoral-school-mathematics?search=695208",
+    "status": "open",
+    "scraped_at": "2025-11-21T10:26:35Z",
+    "deadline": "2026-05-31",
+    "posted_at": "2026-02-01"
+  },
+  {
+    "id": "7c5c9f482de6d20c",
+    "title": "Doctoral School of Physics",
+    "position": "PhD Program",
+    "url": "https://apply.elte.hu/courses/course/206-phd-doctoral-school-physics?search=695208",
+    "status": "open",
+    "scraped_at": "2025-11-21T10:26:35Z",
+    "deadline": "2026-05-31",
+    "posted_at": "2026-02-01"
+  },
+  {
+    "id": "cbb083933c3364ad",
+    "title": "Doctoral School of Psychology",
+    "position": "PhD Program",
+    "url": "https://apply.elte.hu/courses/course/47-phd-doctoral-school-psychology?search=695208",
+    "status": "open",
+    "scraped_at": "2025-11-21T10:26:35Z",
+    "deadline": "2026-05-25",
+    "posted_at": "2025-11-25"
+  },
+  {
+    "id": "39fd5558f1fe8534",
+    "title": "Doctoral School of Sociology: PhD Programme in Sociology, PhD Programme in International Studies, and PhD Programme in Interdisciplinary Social Research",
+    "position": "PhD Program",
+    "url": "https://apply.elte.hu/courses/course/215-phd-doctoral-school-sociology-phd-programme-sociology-phd-programme-international-studies-and-phd-programme-interdisciplinary-social-research?search=695208",
+    "status": "open",
+    "scraped_at": "2025-11-21T10:26:35Z",
+    "deadline": "2026-05-31",
+    "posted_at": "2026-05-05"
+  },
+  {
+    "id": "6eecda484fa92981",
+    "title": "Hevesy György PhD School of Chemistry",
+    "position": "PhD Program",
+    "url": "https://apply.elte.hu/courses/course/194-phd-hevesy-gyorgy-phd-school-chemistry?search=695208",
+    "status": "open",
+    "scraped_at": "2025-11-21T10:26:35Z",
+    "deadline": "2026-05-31",
+    "posted_at": "2026-02-01"
+  }
+]

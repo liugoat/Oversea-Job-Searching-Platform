@@ -1,0 +1,10 @@
+{
+  "country": "sweden",
+  "schools": [],
+  "errors": [
+    {
+      "school": "dalarna",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://web103.reachmee.com/ext/I003/595/main?lang=UK&site=12"
+    }
+  ]
+}

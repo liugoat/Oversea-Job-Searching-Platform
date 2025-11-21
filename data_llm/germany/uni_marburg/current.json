@@ -1,0 +1,58 @@
+[
+  {
+    "id": "a2a62cf357bda10f",
+    "title": "Research Assistant",
+    "position": "PhD Position",
+    "deadline": "2025-11-09",
+    "posted_at": "2025-11-09",
+    "university": "University of Marburg",
+    "country": "Germany",
+    "processing_time": "2025-10-29T08:56:26Z",
+    "requires_master_degree": "master's or equivalent",
+    "url": "https://stellenangebote.uni-marburg.de/jobposting/eb82cc0ee4fb64be1f7fa05d5fa31955f1ae819d0?ref=homepage",
+    "status": "open",
+    "scraped_at": "2025-10-29T08:56:26Z"
+  },
+  {
+    "id": "41456f455384fdf6",
+    "title": "Doctoral and Postdoctoral Researcher Positions",
+    "position": "Doctoral student",
+    "deadline": "2025-11-16",
+    "posted_at": "2026-01-01",
+    "university": "University of Marburg",
+    "country": "Germany",
+    "processing_time": "2025-10-29T08:56:26Z",
+    "requires_master_degree": "PhD",
+    "url": "https://stellenangebote.uni-marburg.de/jobposting/2214bcc313fa8d89ccb9d2878103331f10cbafd40?ref=homepage",
+    "status": "open",
+    "scraped_at": "2025-10-29T08:56:26Z"
+  },
+  {
+    "id": "5ffde5a1a13fb384",
+    "title": "PhD Position in Quantum Materials Research and Optoelectronics",
+    "position": "PhD Program",
+    "deadline": "2025-11-16",
+    "posted_at": "2025-11-16",
+    "university": "University of Marburg",
+    "country": "Germany",
+    "processing_time": "2025-10-29T08:56:26Z",
+    "requires_master_degree": "NaN",
+    "url": "https://stellenangebote.uni-marburg.de/jobposting/465fcc3fb56b29e2af245976c6377f8c4f5482490?ref=homepage",
+    "status": "open",
+    "scraped_at": "2025-10-29T08:56:26Z"
+  },
+  {
+    "id": "de842773e3bfdf80",
+    "title": "Research Assistant (Doctoral Researcher/PhD)",
+    "position": "PhD Program",
+    "deadline": "2025-11-16",
+    "posted_at": "2025-11-16",
+    "university": "University of Marburg",
+    "country": "Germany",
+    "processing_time": "2025-10-29T08:56:26Z",
+    "requires_master_degree": "NaN",
+    "url": "https://stellenangebote.uni-marburg.de/jobposting/a4cb4724bcc9c7c93e565ed1ab3216d25d26b4ac0?ref=homepage",
+    "status": "open",
+    "scraped_at": "2025-10-29T08:56:26Z"
+  }
+]

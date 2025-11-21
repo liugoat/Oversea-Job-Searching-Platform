@@ -1,0 +1,10 @@
+{
+  "category": "job_web",
+  "spiders": [],
+  "errors": [
+    {
+      "spider": "phdscanner_web",
+      "error": "TimeoutException: Message: \n"
+    }
+  ]
+}

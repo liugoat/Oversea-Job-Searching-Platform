@@ -1,0 +1,12 @@
+{
+  "category": "job_web",
+  "spiders": [
+    {
+      "spider": "academic_transfer_web",
+      "added": 175,
+      "removed": 0,
+      "total": 175
+    }
+  ],
+  "errors": []
+}

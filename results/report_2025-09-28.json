@@ -1,0 +1,36 @@
+{
+  "country": "norway",
+  "schools": [
+    {
+      "school": "uio",
+      "added": 0,
+      "removed": 0,
+      "total": 19
+    },
+    {
+      "school": "uib",
+      "added": 0,
+      "removed": 0,
+      "total": 13
+    },
+    {
+      "school": "ntnu",
+      "added": 0,
+      "removed": 0,
+      "total": 41
+    },
+    {
+      "school": "uit",
+      "added": 0,
+      "removed": 0,
+      "total": 19
+    },
+    {
+      "school": "oslomet",
+      "added": 22,
+      "removed": 0,
+      "total": 32
+    }
+  ],
+  "errors": []
+}

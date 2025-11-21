@@ -1,0 +1,12 @@
+{
+  "country": "britain",
+  "programs": [
+    {
+      "school": "manchesteramProg",
+      "added": 4,
+      "removed": 0,
+      "total": 4
+    }
+  ],
+  "errors": []
+}

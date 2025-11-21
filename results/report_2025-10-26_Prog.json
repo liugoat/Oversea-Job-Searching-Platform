@@ -1,0 +1,78 @@
+{
+  "country": "spain",
+  "programs": [
+    {
+      "school": "uscProg",
+      "added": 0,
+      "removed": 0,
+      "total": 57
+    },
+    {
+      "school": "unizarProg",
+      "added": 0,
+      "removed": 0,
+      "total": 50
+    },
+    {
+      "school": "ehuProg",
+      "added": 0,
+      "removed": 0,
+      "total": 66
+    },
+    {
+      "school": "uvProg",
+      "added": 0,
+      "removed": 0,
+      "total": 60
+    },
+    {
+      "school": "usSevillaProg",
+      "added": 0,
+      "removed": 0,
+      "total": 34
+    },
+    {
+      "school": "ugrProg",
+      "added": 0,
+      "removed": 0,
+      "total": 28
+    },
+    {
+      "school": "uamProg",
+      "added": 0,
+      "removed": 0,
+      "total": 47
+    },
+    {
+      "school": "uabProg",
+      "added": 0,
+      "removed": 0,
+      "total": 68
+    },
+    {
+      "school": "ucmProg",
+      "added": 0,
+      "removed": 0,
+      "total": 56
+    },
+    {
+      "school": "upcProg",
+      "added": 0,
+      "removed": 0,
+      "total": 46
+    },
+    {
+      "school": "uc3mProg",
+      "added": 0,
+      "removed": 0,
+      "total": 22
+    },
+    {
+      "school": "upvProg",
+      "added": 0,
+      "removed": 0,
+      "total": 32
+    }
+  ],
+  "errors": []
+}

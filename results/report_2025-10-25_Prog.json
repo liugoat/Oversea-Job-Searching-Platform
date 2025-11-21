@@ -1,0 +1,12 @@
+{
+  "country": "germany",
+  "programs": [
+    {
+      "school": "saarlandProg",
+      "added": 2,
+      "removed": 0,
+      "total": 18
+    }
+  ],
+  "errors": []
+}

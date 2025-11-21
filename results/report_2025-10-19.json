@@ -1,0 +1,36 @@
+{
+  "country": "switzerland",
+  "schools": [
+    {
+      "school": "ethz",
+      "added": 0,
+      "removed": 0,
+      "total": 35
+    },
+    {
+      "school": "unifr",
+      "added": 0,
+      "removed": 0,
+      "total": 2
+    },
+    {
+      "school": "unisg",
+      "added": 0,
+      "removed": 0,
+      "total": 18
+    },
+    {
+      "school": "unibas",
+      "added": 0,
+      "removed": 0,
+      "total": 15
+    },
+    {
+      "school": "uzh",
+      "added": 0,
+      "removed": 0,
+      "total": 21
+    }
+  ],
+  "errors": []
+}

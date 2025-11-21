@@ -1,0 +1,12 @@
+{
+  "category": "job_web",
+  "spiders": [
+    {
+      "spider": "jobbnorge_web",
+      "added": 59,
+      "removed": 0,
+      "total": 59
+    }
+  ],
+  "errors": []
+}

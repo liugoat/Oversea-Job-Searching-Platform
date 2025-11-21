@@ -1,0 +1,12 @@
+{
+  "country": "norway",
+  "programs": [
+    {
+      "school": "innProg",
+      "added": 0,
+      "removed": 6,
+      "total": 6
+    }
+  ],
+  "errors": []
+}

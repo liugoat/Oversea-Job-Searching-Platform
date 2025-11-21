@@ -1,0 +1,12 @@
+{
+  "country": "germany",
+  "programs": [
+    {
+      "school": "mannheim_bizProg",
+      "added": 2,
+      "removed": 0,
+      "total": 2
+    }
+  ],
+  "errors": []
+}

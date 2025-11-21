@@ -1,0 +1,42 @@
+[
+  {
+    "id": "79ff5cd9768299f5",
+    "title": "Doctoral School in the Humanities",
+    "position": "PhD Program",
+    "url": "https://human.phd.uj.edu.pl/en_GB/dla-doktorantow/programy-doktorskie",
+    "status": "open",
+    "scraped_at": "2025-10-19T10:38:16Z",
+    "posted_at": "",
+    "deadline": ""
+  },
+  {
+    "id": "bcefdaf078c3d5b1",
+    "title": "Doctoral School in the Social Sciences",
+    "position": "PhD Program",
+    "url": "https://social-sciences.phd.uj.edu.pl/en_GB/for_phd_students/doctoral_programs",
+    "status": "open",
+    "scraped_at": "2025-10-19T10:38:16Z",
+    "posted_at": "",
+    "deadline": ""
+  },
+  {
+    "id": "eed8295dfa576308",
+    "title": "Doctoral School of Exact and Natural Sciences",
+    "position": "PhD Program",
+    "url": "https://science.phd.uj.edu.pl/en_GB/programme",
+    "status": "open",
+    "scraped_at": "2025-10-19T10:38:16Z",
+    "posted_at": "",
+    "deadline": ""
+  },
+  {
+    "id": "9728ddebce791b88",
+    "title": "Doctoral School of Medical and Health Sciences",
+    "position": "PhD Program",
+    "url": "https://szkoladoktorska.cm-uj.krakow.pl/en/for-phd-students/study-programme/",
+    "status": "open",
+    "scraped_at": "2025-10-19T10:38:16Z",
+    "posted_at": "",
+    "deadline": ""
+  }
+]

@@ -1,0 +1,102 @@
+{
+  "date": "2025-10-19",
+  "countries": [
+    {
+      "country": "austria",
+      "position": null,
+      "program": null,
+      "errors": []
+    },
+    {
+      "country": "belgium",
+      "position": null,
+      "program": null,
+      "errors": []
+    },
+    {
+      "country": "britain",
+      "position": null,
+      "program": null,
+      "errors": []
+    },
+    {
+      "country": "denmark",
+      "position": null,
+      "program": null,
+      "errors": []
+    },
+    {
+      "country": "finland",
+      "position": null,
+      "program": null,
+      "errors": []
+    },
+    {
+      "country": "france",
+      "position": null,
+      "program": null,
+      "errors": []
+    },
+    {
+      "country": "germany",
+      "position": null,
+      "program": null,
+      "errors": []
+    },
+    {
+      "country": "hungary",
+      "position": null,
+      "program": null,
+      "errors": []
+    },
+    {
+      "country": "ireland",
+      "position": null,
+      "program": null,
+      "errors": []
+    },
+    {
+      "country": "italy",
+      "position": null,
+      "program": null,
+      "errors": []
+    },
+    {
+      "country": "netherland",
+      "position": null,
+      "program": null,
+      "errors": []
+    },
+    {
+      "country": "norway",
+      "position": null,
+      "program": null,
+      "errors": []
+    },
+    {
+      "country": "poland",
+      "position": null,
+      "program": null,
+      "errors": []
+    },
+    {
+      "country": "spain",
+      "position": null,
+      "program": null,
+      "errors": []
+    },
+    {
+      "country": "sweden",
+      "position": null,
+      "program": null,
+      "errors": []
+    },
+    {
+      "country": "switzerland",
+      "position": null,
+      "program": null,
+      "errors": []
+    }
+  ],
+  "errors": []
+}

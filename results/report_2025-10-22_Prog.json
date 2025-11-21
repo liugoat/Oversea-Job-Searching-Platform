@@ -1,0 +1,12 @@
+{
+  "country": "hungary",
+  "programs": [
+    {
+      "school": "unidebProg",
+      "added": 3,
+      "removed": 0,
+      "total": 17
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,10 @@
+{
+  "country": "sweden",
+  "schools": [],
+  "errors": [
+    {
+      "school": "itu",
+      "error": "TimeoutException: Message: \nStacktrace:\n\tGetHandleVerifier [0x0x7ff74cb2e995+80021]\n\tGetHandleVerifier [0x0x7ff74cb2e9f0+80112]\n\t(No symbol) [0x0x7ff74c8b060f]\n\t(No symbol) [0x0x7ff74c908854]\n\t(No symbol) [0x0x7ff74c908b1c]\n\t(No symbol) [0x0x7ff74c95c927]\n\t(No symbol) [0x0x7ff74c93126f]\n\t(No symbol) [0x0x7ff74c95968a]\n\t(No symbol) [0x0x7ff74c931003]\n\t(No symbol) [0x0x7ff74c8f95d1]\n\t(No symbol) [0x0x7ff74c8fa3f3]\n\tGetHandleVerifier [0x0x7ff74cdedd4d+2960461]\n\tGetHandleVerifier [0x0x7ff74cde800a+2936586]\n\tGetHandleVerifier [0x0x7ff74ce08a47+3070279]\n\tGetHandleVerifier [0x0x7ff74cb4847e+185214]\n\tGetHandleVerifier [0x0x7ff74cb4fecf+216527]\n\tGetHandleVerifier [0x0x7ff74cb37bd4+117460]\n\tGetHandleVerifier [0x0x7ff74cb37d8f+117903]\n\tGetHandleVerifier [0x0x7ff74cb1dc68+11112]\n\tBaseThreadInitThunk [0x0x7ffe7817e8d7+23]\n\tRtlUserThreadStart [0x0x7ffe79bec53c+44]\n"
+    }
+  ]
+}

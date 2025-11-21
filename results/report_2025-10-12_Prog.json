@@ -1,0 +1,12 @@
+{
+  "country": "finland",
+  "programs": [
+    {
+      "school": "hankenProg",
+      "added": 30,
+      "removed": 13,
+      "total": 50
+    }
+  ],
+  "errors": []
+}

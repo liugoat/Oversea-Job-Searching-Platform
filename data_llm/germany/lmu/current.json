@@ -1,0 +1,30 @@
+[
+  {
+    "id": "a7fc36f1173393c7",
+    "title": "doctoral student",
+    "position": "PhD Program",
+    "deadline": "NaN",
+    "posted_at": "NaN",
+    "university": "LMU Munich",
+    "country": "Germany",
+    "processing_time": "2025-11-06T17:08:20Z",
+    "requires_master_degree": "NaN",
+    "url": "https://www.lmu.de/en/about-lmu/working-at-lmu/job-portal/academic-staff/",
+    "status": "open",
+    "scraped_at": "2025-11-06T17:08:20Z"
+  },
+  {
+    "id": "13467ee045c24d97",
+    "title": "doctoral student",
+    "position": "Doctoral student",
+    "deadline": "NaN",
+    "posted_at": "NaN",
+    "university": "LMU Munich",
+    "country": "Germany",
+    "processing_time": "2025-11-06T17:08:35Z",
+    "requires_master_degree": "NaN",
+    "url": "https://www.lmu.de/en/about-lmu/working-at-lmu/job-portal/academic-staff/",
+    "status": "open",
+    "scraped_at": "2025-11-06T17:08:35Z"
+  }
+]

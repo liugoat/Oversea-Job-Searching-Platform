@@ -1,0 +1,12 @@
+{
+  "country": "hungary",
+  "schools": [
+    {
+      "school": "pte",
+      "added": 14,
+      "removed": 0,
+      "total": 14
+    }
+  ],
+  "errors": []
+}

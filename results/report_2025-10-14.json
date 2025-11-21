@@ -1,0 +1,10 @@
+{
+  "country": "netherland",
+  "schools": [],
+  "errors": [
+    {
+      "school": "leiden",
+      "error": "RuntimeError: Leiden: parsed 0 items across all URL pages; skip updating to protect current data."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "af36ce7db61bbe2f",
+    "title": "PhD Positions",
+    "position": "PhD Student",
+    "deadline": "2025-12-06",
+    "posted_at": "2025-12-06",
+    "university": "CISPA",
+    "country": "Germany",
+    "processing_time": "2025-10-19T10:28:43Z",
+    "requires_master_degree": "Master’s degree from a research-oriented institution of higher education in computer science, mathematics, statistics, or a related discipline",
+    "url": "https://career.cispa.de/jobs/phd-positions-in-collaborative-distributed-and-scalable-machine-learning-m-w-d-group-stich-71",
+    "status": "closed",
+    "scraped_at": "2025-10-19T10:28:43Z",
+    "closed_at": "2025-11-06T16:35:24Z"
+  },
+  {
+    "id": "002c81c088a0199d",
+    "title": "PhD and Postdocs related to Usable Privacy and Security",
+    "position": "Doctoral student",
+    "deadline": "NaN",
+    "posted_at": "NaN",
+    "university": "CISPA",
+    "country": "Germany",
+    "processing_time": "2025-10-19T10:28:43Z",
+    "requires_master_degree": "Master’s degree from a research-oriented institution of higher education in a subject relevant to our research",
+    "url": "https://career.cispa.de/jobs/phd-and-postdocs-related-to-usable-privacy-and-security-m-w-d-group-golla-15",
+    "status": "closed",
+    "scraped_at": "2025-10-19T10:28:43Z",
+    "closed_at": "2025-11-06T16:35:24Z"
+  }
+]

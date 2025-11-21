@@ -1,0 +1,12 @@
+{
+  "country": "switzerland",
+  "programs": [
+    {
+      "school": "uniluProg",
+      "added": 5,
+      "removed": 0,
+      "total": 7
+    }
+  ],
+  "errors": []
+}

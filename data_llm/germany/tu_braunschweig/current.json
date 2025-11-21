@@ -1,0 +1,44 @@
+[
+  {
+    "id": "9d091ddee4d6fc3a",
+    "title": "PhD Position in Computational Neuroscience",
+    "position": "PhD Student",
+    "deadline": "2026-01-01",
+    "posted_at": "2026-01-01",
+    "university": "Technische Universität Braunschweig",
+    "country": "Germany",
+    "processing_time": "2025-10-25T20:24:03Z",
+    "requires_master_degree": "clearly stated",
+    "url": "https://www.tu-braunschweig.de/en/vacancies/templates/job-offer-normal-german-english-1-3-2",
+    "status": "open",
+    "scraped_at": "2025-10-25T20:24:03Z"
+  },
+  {
+    "id": "3cfb78f02006ef8c",
+    "title": "Doctoral Candidate (m/f/d) in Cellular Metabolism",
+    "position": "Doctoral Student",
+    "deadline": "2025-11-06",
+    "posted_at": "2025-10-15",
+    "university": "Technische Universität Braunschweig",
+    "country": "Germany",
+    "processing_time": "2025-10-25T20:24:05Z",
+    "requires_master_degree": "Master's degree (or equivalent) in Biology, Biochemistry, Cell Biology, Metabolism or related fields",
+    "url": "https://www.tu-braunschweig.de/en/vacancies/templates/job-offer-normal-german-english-1-3-13",
+    "status": "open",
+    "scraped_at": "2025-10-25T20:24:05Z"
+  },
+  {
+    "id": "4d57a7cae5bd038f",
+    "title": "Doctoral Candidate in the Field of Cellular Neuroscience",
+    "position": "Doctoral student",
+    "deadline": "NaN",
+    "posted_at": "2025-11-05",
+    "university": "Technische Universität Braunschweig",
+    "country": "Germany",
+    "processing_time": "2025-10-25T20:24:16Z",
+    "requires_master_degree": "clearly stated",
+    "url": "https://www.tu-braunschweig.de/en/vacancies/templates/job-offer-normal-german-english-1-3-5",
+    "status": "open",
+    "scraped_at": "2025-10-25T20:24:16Z"
+  }
+]

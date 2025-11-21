@@ -1,0 +1,30 @@
+[
+  {
+    "id": "378d34b9656e59fc",
+    "title": "PhD Researcher",
+    "position": "PhD Program",
+    "deadline": "2025-11-10",
+    "posted_at": "2025-10-06",
+    "university": "University of Tübingen",
+    "country": "Germany",
+    "processing_time": "2025-11-06T17:53:12Z",
+    "requires_master_degree": "PhD",
+    "url": "https://uni-tuebingen.de/en/university/careers/newsfullview-job-advertisements/article/phd-researcher-m-f-d-e13-tv-l-75-3/",
+    "status": "open",
+    "scraped_at": "2025-11-06T17:53:12Z"
+  },
+  {
+    "id": "550f293503ad16c0",
+    "title": "University of Tübingen",
+    "position": "Doctoral student",
+    "deadline": "NaN",
+    "posted_at": "NaN",
+    "university": "University of Tübingen",
+    "country": "Germany",
+    "processing_time": "2025-11-06T17:53:39Z",
+    "requires_master_degree": "NaN",
+    "url": "https://uni-tuebingen.de/en/university/careers/newsfullview-job-advertisements/article/phd-student-doctoral-candidate-in-plant-ecology-m-f-d-e13-tv-l-65/",
+    "status": "open",
+    "scraped_at": "2025-11-06T17:53:39Z"
+  }
+]

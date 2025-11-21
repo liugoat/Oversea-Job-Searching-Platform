@@ -1,0 +1,10 @@
+{
+  "country": "finland",
+  "programs": [],
+  "errors": [
+    {
+      "school": "opintopolkuProg",
+      "error": "TimeoutException: Message: \nStacktrace:\n\tGetHandleVerifier [0x0x7ff7dd5ae995+80021]\n\tGetHandleVerifier [0x0x7ff7dd5ae9f0+80112]\n\t(No symbol) [0x0x7ff7dd33060f]\n\t(No symbol) [0x0x7ff7dd388854]\n\t(No symbol) [0x0x7ff7dd388b1c]\n\t(No symbol) [0x0x7ff7dd3dc927]\n\t(No symbol) [0x0x7ff7dd3b126f]\n\t(No symbol) [0x0x7ff7dd3d968a]\n\t(No symbol) [0x0x7ff7dd3b1003]\n\t(No symbol) [0x0x7ff7dd3795d1]\n\t(No symbol) [0x0x7ff7dd37a3f3]\n\tGetHandleVerifier [0x0x7ff7dd86dd4d+2960461]\n\tGetHandleVerifier [0x0x7ff7dd86800a+2936586]\n\tGetHandleVerifier [0x0x7ff7dd888a47+3070279]\n\tGetHandleVerifier [0x0x7ff7dd5c847e+185214]\n\tGetHandleVerifier [0x0x7ff7dd5cfecf+216527]\n\tGetHandleVerifier [0x0x7ff7dd5b7bd4+117460]\n\tGetHandleVerifier [0x0x7ff7dd5b7d8f+117903]\n\tGetHandleVerifier [0x0x7ff7dd59dc68+11112]\n\tBaseThreadInitThunk [0x0x7ffe7817e8d7+23]\n\tRtlUserThreadStart [0x0x7ffe79bec53c+44]\n"
+    }
+  ]
+}

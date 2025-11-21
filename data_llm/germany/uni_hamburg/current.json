@@ -1,0 +1,72 @@
+[
+  {
+    "id": "8b69da9d8e703413",
+    "title": "Job opportunity",
+    "position": "Doctoral student",
+    "deadline": "NaN",
+    "posted_at": "NaN",
+    "university": "University of Hamburg",
+    "country": "Germany",
+    "processing_time": "2025-11-06T17:45:24Z",
+    "requires_master_degree": "NaN",
+    "url": "https://www.uni-hamburg.de/en/stellenangebote/ausschreibung.html?jobID=8efa5bc4cc639efc5ecc02f4cea7a5ee05af4000",
+    "status": "open",
+    "scraped_at": "2025-11-06T17:45:24Z"
+  },
+  {
+    "id": "962fbbc83f5e94ad",
+    "title": "Job opportunity",
+    "position": "Doctoral student",
+    "deadline": "NaN",
+    "posted_at": "NaN",
+    "university": "University of Hamburg",
+    "country": "Germany",
+    "processing_time": "2025-11-06T17:45:40Z",
+    "requires_master_degree": "NaN",
+    "url": "https://www.uni-hamburg.de/en/stellenangebote/ausschreibung.html?jobID=d5310fad32aa999da7d4e94031b4708269359178",
+    "status": "open",
+    "scraped_at": "2025-11-06T17:45:40Z"
+  },
+  {
+    "id": "863132dfbe8b09db",
+    "title": "Job opportunity",
+    "position": "Doctoral student",
+    "deadline": "NaN",
+    "posted_at": "NaN",
+    "university": "University of Hamburg",
+    "country": "Germany",
+    "processing_time": "2025-11-06T17:45:57Z",
+    "requires_master_degree": "NaN",
+    "url": "https://www.uni-hamburg.de/en/stellenangebote/ausschreibung.html?jobID=f8c1114aab70f23991889a21b31754254edc1770",
+    "status": "open",
+    "scraped_at": "2025-11-06T17:45:57Z"
+  },
+  {
+    "id": "0dd2fcfa424eaf90",
+    "title": "Job opportunity",
+    "position": "Doctoral student",
+    "deadline": "NaN",
+    "posted_at": "NaN",
+    "university": "University of Hamburg",
+    "country": "Germany",
+    "processing_time": "2025-11-06T17:46:13Z",
+    "requires_master_degree": "NaN",
+    "url": "https://www.uni-hamburg.de/en/stellenangebote/ausschreibung.html?jobID=85840656bbfc235b3971898eef570f829cfb5f28",
+    "status": "open",
+    "scraped_at": "2025-11-06T17:46:13Z"
+  },
+  {
+    "id": "361c50b44d325542",
+    "title": "Job opportunity",
+    "position": "Doctoral student",
+    "deadline": "NaN",
+    "posted_at": "NaN",
+    "university": "University of Hamburg",
+    "country": "Germany",
+    "processing_time": "2025-11-06T17:46:30Z",
+    "requires_master_degree": "Master's degree in a relevant field",
+    "url": "https://www.uni-hamburg.de/en/stellenangebote/ausschreibung.html?jobID=199fe395cc0d86300056698ac072592a81b3ce21",
+    "status": "open",
+    "scraped_at": "2025-11-06T17:46:30Z"
+  }
+]

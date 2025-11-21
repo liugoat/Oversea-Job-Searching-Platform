@@ -1,0 +1,12 @@
+{
+  "country": "germany",
+  "schools": [
+    {
+      "school": "uni_tuebingen",
+      "added": 0,
+      "removed": 0,
+      "total": 2
+    }
+  ],
+  "errors": []
+}

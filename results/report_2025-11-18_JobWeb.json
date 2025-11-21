@@ -1,0 +1,10 @@
+{
+  "category": "job_web",
+  "spiders": [],
+  "errors": [
+    {
+      "spider": "findaphd_web",
+      "error": "OSError: 页面文件太小，无法完成操作。 (os error 1455)"
+    }
+  ]
+}

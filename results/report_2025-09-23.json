@@ -1,0 +1,30 @@
+{
+  "country": "sweden",
+  "schools": [
+    {
+      "school": "lund",
+      "added": 8,
+      "removed": 0,
+      "total": 8
+    },
+    {
+      "school": "gothenburg",
+      "added": 7,
+      "removed": 0,
+      "total": 7
+    },
+    {
+      "school": "karolinska",
+      "added": 7,
+      "removed": 0,
+      "total": 7
+    },
+    {
+      "school": "uppsala",
+      "added": 15,
+      "removed": 0,
+      "total": 16
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,12 @@
+{
+  "category": "job_web",
+  "spiders": [
+    {
+      "spider": "timeshighereducation_web",
+      "added": 137,
+      "removed": 0,
+      "total": 156
+    }
+  ],
+  "errors": []
+}

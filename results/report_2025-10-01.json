@@ -1,0 +1,12 @@
+{
+  "country": "belgium",
+  "schools": [
+    {
+      "school": "ugent",
+      "added": 0,
+      "removed": 0,
+      "total": 15
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,10 @@
+{
+  "country": "finland",
+  "programs": [],
+  "errors": [
+    {
+      "school": "hankenProg",
+      "error": "NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//nav[contains(@class,'MuiPagination') or @role='navigation' or contains(@class,'MuiPagination-root')]\"}\n  (Session info: chrome=141.0.7390.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception\nStacktrace:\n\tGetHandleVerifier [0x0x7ff78cd1e995+80021]\n\tGetHandleVerifier [0x0x7ff78cd1e9f0+80112]\n\t(No symbol) [0x0x7ff78caa060f]\n\t(No symbol) [0x0x7ff78caf8854]\n\t(No symbol) [0x0x7ff78caf8b1c]\n\t(No symbol) [0x0x7ff78cb4c927]\n\t(No symbol) [0x0x7ff78cb2126f]\n\t(No symbol) [0x0x7ff78cb4968a]\n\t(No symbol) [0x0x7ff78cb21003]\n\t(No symbol) [0x0x7ff78cae95d1]\n\t(No symbol) [0x0x7ff78caea3f3]\n\tGetHandleVerifier [0x0x7ff78cfddd4d+2960461]\n\tGetHandleVerifier [0x0x7ff78cfd800a+2936586]\n\tGetHandleVerifier [0x0x7ff78cff8a47+3070279]\n\tGetHandleVerifier [0x0x7ff78cd3847e+185214]\n\tGetHandleVerifier [0x0x7ff78cd3fecf+216527]\n\tGetHandleVerifier [0x0x7ff78cd27bd4+117460]\n\tGetHandleVerifier [0x0x7ff78cd27d8f+117903]\n\tGetHandleVerifier [0x0x7ff78cd0dc68+11112]\n\tBaseThreadInitThunk [0x0x7ffe7817e8d7+23]\n\tRtlUserThreadStart [0x0x7ffe79bec53c+44]\n"
+    }
+  ]
+}

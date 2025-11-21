@@ -1,0 +1,12 @@
+{
+  "category": "job_web",
+  "spiders": [
+    {
+      "spider": "naturecareers_web",
+      "added": 91,
+      "removed": 0,
+      "total": 91
+    }
+  ],
+  "errors": []
+}

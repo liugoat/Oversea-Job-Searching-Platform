@@ -1,0 +1,12 @@
+{
+  "country": "sweden",
+  "schools": [
+    {
+      "school": "lund",
+      "added": 10,
+      "removed": 0,
+      "total": 10
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,1 @@
+__all_prog__ = ["uni_lj_doctoralProg"]

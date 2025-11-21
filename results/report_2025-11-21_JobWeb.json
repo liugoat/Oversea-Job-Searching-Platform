@@ -1,0 +1,12 @@
+{
+  "category": "job_web",
+  "spiders": [
+    {
+      "spider": "jobrxiv_web",
+      "added": 0,
+      "removed": 0,
+      "total": 0
+    }
+  ],
+  "errors": []
+}

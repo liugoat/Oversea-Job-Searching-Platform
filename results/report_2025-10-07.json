@@ -1,0 +1,12 @@
+{
+  "country": "sweden",
+  "schools": [
+    {
+      "school": "umu",
+      "added": 0,
+      "removed": 7,
+      "total": 6
+    }
+  ],
+  "errors": []
+}

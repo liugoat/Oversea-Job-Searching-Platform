@@ -1,0 +1,10 @@
+{
+  "country": "slovak",
+  "programs": [],
+  "errors": [
+    {
+      "school": "tuke_dsProg",
+      "error": "RuntimeError: tuke_dsProg: Failed to fetch programmes via both requests and Playwright."
+    }
+  ]
+}

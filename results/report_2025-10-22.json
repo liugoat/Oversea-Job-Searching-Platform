@@ -1,0 +1,12 @@
+{
+  "country": "germany",
+  "schools": [
+    {
+      "school": "uni_stuttgart",
+      "added": 11,
+      "removed": 0,
+      "total": 12
+    }
+  ],
+  "errors": []
+}

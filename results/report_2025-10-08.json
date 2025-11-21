@@ -1,0 +1,12 @@
+{
+  "country": "norway",
+  "schools": [
+    {
+      "school": "ntnu",
+      "added": 0,
+      "removed": 0,
+      "total": 4
+    }
+  ],
+  "errors": []
+}

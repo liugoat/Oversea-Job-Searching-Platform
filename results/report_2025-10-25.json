@@ -1,0 +1,12 @@
+{
+  "country": "germany",
+  "schools": [
+    {
+      "school": "kiel",
+      "added": 1,
+      "removed": 5,
+      "total": 1
+    }
+  ],
+  "errors": []
+}

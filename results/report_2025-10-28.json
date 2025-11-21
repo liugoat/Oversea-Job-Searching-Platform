@@ -1,0 +1,12 @@
+{
+  "country": "austria",
+  "schools": [
+    {
+      "school": "jku",
+      "added": 1,
+      "removed": 0,
+      "total": 3
+    }
+  ],
+  "errors": []
+}

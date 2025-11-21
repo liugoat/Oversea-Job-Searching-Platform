@@ -1,0 +1,12 @@
+{
+  "country": "belgium",
+  "schools": [
+    {
+      "school": "kuleuven",
+      "added": 0,
+      "removed": 0,
+      "total": 0
+    }
+  ],
+  "errors": []
+}
